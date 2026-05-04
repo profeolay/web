@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504201906RVPT72</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605042019065H784P</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>A Spirit of Adventure</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>After the steps of great explorers</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Olay Fernández Lombardía</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Learning situation for CSE 1. It works on the contents of Unit 7. The unit combines grammar (past simple) with adventure-themed vocabulary, helping students talk about past experiences and important people, especially through biographical texts and communication activities.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777918275865</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morimxff-w0xgjx7ip</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>A spirit of adventure</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A spirit of adventure</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A spirit of adventure</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>A spirit of adventure</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxff-w0xgjx7ip</odePageId>
+      <odeBlockId>block-1776067407079-k9picffcy</odeBlockId>
+      <blockName>A spirit of adventure</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxff-w0xgjx7ip</odePageId>
+          <odeBlockId>block-1776067407079-k9picffcy</odeBlockId>
+          <odeIdeviceId>idevice-1776067407071-y1fum1svo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>A Spirit of Adventure: After the steps of great explorers</strong><br />Etapa educativa y nivel: 1º de Educación Secundaria Obligatoria (ESO).<br />Áreas y materias implicadas: Primera Lengua Extranjera (Inglés).<br />Agrupamientos y organización espacial:</p>
+<p>Agrupamientos: Se aplicarán múltiples formas de compromiso mediante el trabajo individual (investigación y autoevaluación), en parejas (para la grabación del podcast/entrevista), en pequeño grupo heterogéneo de 4 personas (para el diseño colaborativo de la investigación) y en gran grupo (asambleas iniciales y exposición final de productos).</p>
+<p><strong>Organización espacial</strong>: Las sesiones se desarrollarán en el aula ordinaria (debates y asambleas) y en el aula de informática para las fases de creación digital.<br /><strong>Temporalización</strong>: La Situación de Aprendizaje se desarrollará en 6 sesiones de 55 minutos cada una.<br /></p>
+<p><strong>Descripción de los productos</strong>:</p>
+<p>-Infografía interactiva: El alumnado diseñará una biografía visual sobre un explorador o exploradora célebre (ej. Edmund Hillary o Amelia Earhart). Esta deberá incluir etiquetas interactivas que desplieguen datos curiosos, hitos y vocabulario específico de la unidad empleando el pasado del verbo to be y adjetivos en -ed/-ing.<br />-Podcast (o vídeo) "Viaje en el tiempo": Mediante un juego de roles, las parejas grabarán una entrevista donde un estudiante actúa como periodista y el otro como el personaje histórico investigado. Se valorará la interacción oral y el uso de estructuras interrogativas en pasado simple.<br /></p>
+<p><strong>Herramientas tecnológicas y recursos</strong>:</p>
+<p>Para el alumnado: Uso de <strong>Canva </strong>o <strong>Genially </strong>para la infografía; <strong>Audacity </strong>para el podcast; y dispositivos móviles o portátiles para la búsqueda de información.<br />Para el docente: Plataforma eXelearning para la estructura del recurso, Microsoft Teams para la distribución de rúbricas y hoja de cálculo (Excel) para la calificación ponderada de los criterios.<br />Recursos complementarios: Se proporcionarán enlaces a canales de YouTube educativos (como National Geographic Kids) y bancos de imágenes con licencia Creative Commons para asegurar la accesibilidad y el respeto a la autoría.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776067407071-y1fum1svo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>A Spirit of Adventure: After the steps of great explorers</strong><br />Etapa educativa y nivel: 1º de Educación Secundaria Obligatoria (ESO).<br />Áreas y materias implicadas: Primera Lengua Extranjera (Inglés).<br />Agrupamientos y organización espacial:</p>\n<p>Agrupamientos: Se aplicarán múltiples formas de compromiso mediante el trabajo individual (investigación y autoevaluación), en parejas (para la grabación del podcast/entrevista), en pequeño grupo heterogéneo de 4 personas (para el diseño colaborativo de la investigación) y en gran grupo (asambleas iniciales y exposición final de productos).</p>\n<p><strong>Organización espacial</strong>: Las sesiones se desarrollarán en el aula ordinaria (debates y asambleas) y en el aula de informática para las fases de creación digital.<br /><strong>Temporalización</strong>: La Situación de Aprendizaje se desarrollará en 6 sesiones de 55 minutos cada una.<br /></p>\n<p><strong>Descripción de los productos</strong>:</p>\n<p>-Infografía interactiva: El alumnado diseñará una biografía visual sobre un explorador o exploradora célebre (ej. Edmund Hillary o Amelia Earhart). Esta deberá incluir etiquetas interactivas que desplieguen datos curiosos, hitos y vocabulario específico de la unidad empleando el pasado del verbo to be y adjetivos en -ed/-ing.<br />-Podcast (o vídeo) \"Viaje en el tiempo\": Mediante un juego de roles, las parejas grabarán una entrevista donde un estudiante actúa como periodista y el otro como el personaje histórico investigado. Se valorará la interacción oral y el uso de estructuras interrogativas en pasado simple.<br /></p>\n<p><strong>Herramientas tecnológicas y recursos</strong>:</p>\n<p>Para el alumnado: Uso de <strong>Canva </strong>o <strong>Genially </strong>para la infografía; <strong>Audacity </strong>para el podcast; y dispositivos móviles o portátiles para la búsqueda de información.<br />Para el docente: Plataforma eXelearning para la estructura del recurso, Microsoft Teams para la distribución de rúbricas y hoja de cálculo (Excel) para la calificación ponderada de los criterios.<br />Recursos complementarios: Se proporcionarán enlaces a canales de YouTube educativos (como National Geographic Kids) y bancos de imágenes con licencia Creative Commons para asegurar la accesibilidad y el respeto a la autoría.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morimxfi-960cqy4hv</odePageId>
+  <odeParentPageId>page-morimxff-w0xgjx7ip</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxfi-960cqy4hv</odePageId>
+      <odeBlockId>block-1776109510047-dk1rwh4p7</odeBlockId>
+      <blockName>Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfi-960cqy4hv</odePageId>
+          <odeBlockId>block-1776109510047-dk1rwh4p7</odeBlockId>
+          <odeIdeviceId>idevice-1776109510042-20cgu526t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Intención Educativa</strong></p>
+<p><strong>Justificación de su desarrollo y el impacto esperado </strong></p>
+<p>El diseño de esta SdA se debe a la necesidad de contextualizar el aprendizaje de la lengua inglesa en escenarios motivadores y cercanos a los intereses del estudiantado de 1º de ESO. Utilizando el hilo conductor de la unidad "A Spirit of Adventure", se procura trascender la enseñanza tradicional de los contenidos de gramática [siendo en este caso el pasado del verbo to be] así como el vocabulario, para aplicarlos en un contexto comunicativo real de forma práctica. A partir de la creación de productos digitales, ya sean una infografía interactiva o un podcast o vídeo, el alumnado deja de ser un receptor pasivo para convertirse en protagonista y creador de contenido.</p>
+<p>Con ella buscamos un doble impacto:</p>
+<ul>
+<li><strong>A nivel lingüístico</strong>, se busca una mejora significativa en la fluidez comunicativa de la primera lengua extranjera a nivel de expresión oral y escrita, haciendo que el alumnado más joven de Secundaria sea capaz de perder el miedo a interactuar en lengua extranjera al asumir el rol que se le asigne.<br /></li>
+<li><strong>A nivel competencial</strong>, se espera potenciar el trabajo autónomo y cooperativo, la mejora de la CD docente y del alumnado, y el desarrollo de valores fundamentales como el afán de superación propios de las figuras históricas que van a investigar.<br /></li>
+</ul>
+<p><strong>Relación de la SdA con los ODS y Retos del siglo XXI</strong></p>
+<p>Esta Situación de Aprendizaje se alinea de forma directa con los siguientes ODS de la Agenda 2030:</p>
+<p><strong>ODS 4 (Educación de Calidad)</strong>: Se promueve un aprendizaje activo, significativo e inclusivo. Al aplicar los principios del DUA, se ofrecen múltiples vías de acceso a la información y diversas opciones para que el alumnado exprese lo aprendido.<br /><strong>ODS 5 (Igualdad de Género)</strong>: Durante la fase de investigación biográfica, se fomentará intencionadamente la búsqueda y visibilización de mujeres exploradoras, científicas y pioneras (como Amelia Earhart o Nellie Bly), rompiendo estereotipos de género y ofreciendo referentes equitativos.</p>
+<p><br />Asimismo, la propuesta da respuesta a varios <strong>Retos del siglo XXI</strong> planteados en el actual marco curricular de la LOMLOE:</p>
+<ul>
+<li><strong>Aprovechamiento crítico, ético y responsable de la cultura digital</strong>: El alumnado aprenderá a buscar y filtrar información en internet en fuentes fiables para documentar sus trabajos, utilizando herramientas de diseño de forma segura y respetando la propiedad intelectual al buscar imágenes libres de derechos.<strong></strong></li>
+<li><strong>Cooperación, trabajo en equipo y resolución pacífica de conflictos</strong>: La creación colaborativa del podcast/vídeo exige la organización del trabajo en parejas o pequeños grupos, fomentando la empatía, la escucha activa y la toma de decisiones compartida.<br /><strong></strong></li>
+<li><strong>Comunicación en entornos multilingües</strong>: Favorece la apertura hacia otras culturas y realidades globales a través de los viajes y expediciones abordadas, utilizando el inglés como vehículo de comunicación intercultural.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776109510042-20cgu526t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Intención Educativa</strong></p>\n<p><strong>Justificación de su desarrollo y el impacto esperado </strong></p>\n<p>El diseño de esta SdA se debe a la necesidad de contextualizar el aprendizaje de la lengua inglesa en escenarios motivadores y cercanos a los intereses del estudiantado de 1º de ESO. Utilizando el hilo conductor de la unidad \"A Spirit of Adventure\", se procura trascender la enseñanza tradicional de los contenidos de gramática [siendo en este caso el pasado del verbo to be] así como el vocabulario, para aplicarlos en un contexto comunicativo real de forma práctica. A partir de la creación de productos digitales, ya sean una infografía interactiva o un podcast o vídeo, el alumnado deja de ser un receptor pasivo para convertirse en protagonista y creador de contenido.</p>\n<p>Con ella buscamos un doble impacto:</p>\n<ul>\n<li><strong>A nivel lingüístico</strong>, se busca una mejora significativa en la fluidez comunicativa de la primera lengua extranjera a nivel de expresión oral y escrita, haciendo que el alumnado más joven de Secundaria sea capaz de perder el miedo a interactuar en lengua extranjera al asumir el rol que se le asigne.<br /></li>\n<li><strong>A nivel competencial</strong>, se espera potenciar el trabajo autónomo y cooperativo, la mejora de la CD docente y del alumnado, y el desarrollo de valores fundamentales como el afán de superación propios de las figuras históricas que van a investigar.<br /></li>\n</ul>\n<p><strong>Relación de la SdA con los ODS y Retos del siglo XXI</strong></p>\n<p>Esta Situación de Aprendizaje se alinea de forma directa con los siguientes ODS de la Agenda 2030:</p>\n<p><strong>ODS 4 (Educación de Calidad)</strong>: Se promueve un aprendizaje activo, significativo e inclusivo. Al aplicar los principios del DUA, se ofrecen múltiples vías de acceso a la información y diversas opciones para que el alumnado exprese lo aprendido.<br /><strong>ODS 5 (Igualdad de Género)</strong>: Durante la fase de investigación biográfica, se fomentará intencionadamente la búsqueda y visibilización de mujeres exploradoras, científicas y pioneras (como Amelia Earhart o Nellie Bly), rompiendo estereotipos de género y ofreciendo referentes equitativos.</p>\n<p><br />Asimismo, la propuesta da respuesta a varios <strong>Retos del siglo XXI</strong> planteados en el actual marco curricular de la LOMLOE:</p>\n<ul>\n<li><strong>Aprovechamiento crítico, ético y responsable de la cultura digital</strong>: El alumnado aprenderá a buscar y filtrar información en internet en fuentes fiables para documentar sus trabajos, utilizando herramientas de diseño de forma segura y respetando la propiedad intelectual al buscar imágenes libres de derechos.<strong></strong></li>\n<li><strong>Cooperación, trabajo en equipo y resolución pacífica de conflictos</strong>: La creación colaborativa del podcast/vídeo exige la organización del trabajo en parejas o pequeños grupos, fomentando la empatía, la escucha activa y la toma de decisiones compartida.<br /><strong></strong></li>\n<li><strong>Comunicación en entornos multilingües</strong>: Favorece la apertura hacia otras culturas y realidades globales a través de los viajes y expediciones abordadas, utilizando el inglés como vehículo de comunicación intercultural.</li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morimxfj-q2vrpvv4t</odePageId>
+  <odeParentPageId>page-morimxff-w0xgjx7ip</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxfj-q2vrpvv4t</odePageId>
+      <odeBlockId>block-1776110126437-5s4seizak</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfj-q2vrpvv4t</odePageId>
+          <odeBlockId>block-1776110126437-5s4seizak</odeBlockId>
+          <odeIdeviceId>idevice-1776110126436-fjy18fr82</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Elementos curriculares</strong></p>
+<p><strong>Competencias Clave (Descriptores del Perfil de Salida)</strong></p>
+<p>Para esta SdA, se movilizan los siguientes descriptores operativos del perfil de salida:</p>
+<ul>
+<li>
+<p>Justificación de los Descriptores Operativos del Perfil de Salida:</p>
+<p><strong>CCL1 </strong>(Comunicación Lingüística): Al expresar hechos, ideas y emociones de forma oral durante la grabación del podcast/vídeo, asumiendo el rol del personaje histórico y relatando sus vivencias en pasado.<br /><strong>CCL2 </strong>(Comunicación Lingüística): Al comprender e interpretar textos escritos y multimodales en inglés durante la búsqueda de información biográfica sobre los exploradores y exploradoras.<br /><strong>CCL3 </strong>(Comunicación Lingüística): Al localizar, seleccionar y contrastar información de fuentes fiables en internet para extraer los datos más relevantes que compondrán la infografía.<br /><strong>CCL5 </strong>(Comunicación Lingüística): Al interactuar de forma oral, cooperativa y respetuosa con su pareja para planificar el guion de la entrevista y llevar a cabo el juego de roles (periodista-explorador).<br /><strong>CP1 </strong>(Competencia Plurilingüe): Al utilizar la lengua inglesa de forma eficaz como vehículo para acceder a información internacional sobre descubrimientos e hitos históricos mundiales.<br /><strong>CP2 </strong>(Competencia Plurilingüe): Al apoyarse en herramientas digitales (como diccionarios online) y transferir estrategias de comprensión de su lengua materna al inglés para resolver dudas de vocabulario durante la investigación.<br /><strong>CD1 </strong>(Competencia Digital): Al realizar búsquedas críticas y seguras de información en entornos digitales, reconociendo la autoría y seleccionando imágenes libres de derechos (Licencias CC) para sus trabajos.<br /><strong>CD2 </strong>(Competencia Digital): Al crear, editar y compartir contenidos digitales originales e interactivos utilizando herramientas como Canva, Genially, Vocaroo o editores de vídeo.<br /><strong>CPSAA3 </strong>(Comp. Personal, Social y de Aprender a Aprender): Al planificar el trabajo, repartir roles y colaborar de forma eficaz y empática en parejas y pequeños grupos para lograr los productos finales.<br /><strong>CPSAA5 </strong>(Comp. Personal, Social y de Aprender a Aprender): Al participar activamente en su propio proceso de aprendizaje, utilizando herramientas como la diana de autoevaluación para reflexionar sobre sus progresos y áreas de mejora.<br /><strong>CC3 </strong>(Competencia Ciudadana): Al investigar y visibilizar intencionadamente la labor de mujeres exploradoras y científicas, promoviendo la igualdad de género y los valores democráticos (alineado con el ODS 5).<br /><strong>CE1 </strong>(Competencia Emprendedora): Al mostrar iniciativa y transformar las ideas y la información biográfica recopilada en productos creativos, estructurados e innovadores (la infografía interactiva y la entrevista).<br /><strong>CCEC1 </strong>(Conciencia y Expresión Culturales): Al descubrir y valorar críticamente la aportación al patrimonio de la humanidad que supusieron las expediciones de los personajes estudiados.<br /><strong>CCEC3 </strong>(Conciencia y Expresión Culturales): Al integrar elementos estéticos, visuales y de diseño propio en la creación de la infografía interactiva y al dramatizar la entrevista con creatividad.</p>
+</li>
+</ul>
+<p><strong>Justificación de las Competencias Específicas y Criterios de Evaluación en las tareas:</strong></p>
+<p><strong>Competencia Específica 1 </strong>(Comprensión): Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar...</p>
+<p>Criterio 1.1: Al interpretar y analizar el sentido global de textos biográficos escritos y multimodales (páginas web, vídeos cortos en inglés) sobre los exploradores y exploradoras elegidos para extraer los hitos más importantes de sus vidas.<br />Criterio 1.2: Al aplicar estrategias de búsqueda de forma guiada para seleccionar la información más fiable y pertinente en internet, descartando los datos irrelevantes antes de confeccionar la infografía.<br />Competencia Específica 2 (Producción): Producir textos originales, de extensión media, sencillos y con una organización clara... para expresar de forma creativa, adecuada y coherente mensajes relevantes...</p>
+<p>Criterio 2.1: Al expresar oralmente, de forma previamente planificada y estructurada, las preguntas y respuestas durante la grabación del Podcast o Vídeo, utilizando el pasado del verbo to be y la pronunciación adecuada.<br />Criterio 2.2: Al redactar de forma escrita los textos breves y las etiquetas que se incluirán en la infografía interactiva, asegurando la coherencia, la cohesión (uso de linking words) y el uso correcto de los adjetivos en -ed e -ing.<br />Criterio 2.3: Al planificar, redactar borradores y revisar los textos de la infografía y del guion de la entrevista antes de su grabación/publicación, utilizando diccionarios online y correctores como apoyo.<br />Competencia Específica 3 (Interacción): Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales...</p>
+<p>Criterio 3.1: Al participar cooperativamente en el juego de roles de la entrevista simulada, respetando los turnos de palabra, apoyándose en la repetición o el lenguaje no verbal (si graban vídeo) y mostrando empatía hacia la pareja de trabajo.<br />Competencia Específica 6 (Interculturalidad): Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la lengua extranjera...</p>
+<p>Criterio 6.1: Al actuar de forma empática y respetuosa durante la investigación, valorando la aportación histórica de figuras femeninas y masculinas en el ámbito de la exploración, rechazando los estereotipos de género.<br />Criterio 6.2: Al apreciar los descubrimientos, viajes y expediciones mundiales reconociendo la lengua inglesa como fuente de información y enriquecimiento personal para acceder a la historia global.</p>
+<p><strong>2.3 Saberes Básicos integrados en la Situación de Aprendizaje</strong></p>
+<p>Para llevar a cabo las tareas y productos finales (la Infografía interactiva y el Podcast/Vídeo), el alumnado movilizará los siguientes saberes básicos extraídos del currículo oficial:</p>
+<p>Bloque A. Comunicación:</p>
+<p>Autoconfianza y el error como instrumento de mejora: Se trabaja de forma activa durante la grabación del podcast/vídeo, fomentando un entorno seguro donde el alumnado pierda el miedo a expresarse oralmente en inglés.<br />Estrategias básicas para la planificación y producción de textos: Se aplican al realizar los borradores previos, esquemas y guiones (tanto para estructurar la infografía como para preparar las preguntas de la entrevista).<br />Funciones comunicativas básicas (describir, narrar en pasado): Constituyen el eje gramatical del proyecto. El alumnado aprenderá y utilizará el pasado simple del verbo to be (was/were) y los adjetivos en -ed/-ing para narrar la vida y hazañas de los exploradores.<br />Identificación de la autoría de las fuentes: Se integra transversalmente durante la fase de investigación, enseñando al alumnado a buscar y referenciar imágenes con licencias Creative Commons para ilustrar su infografía.<br />Herramientas digitales para la producción y coproducción: Se materializa en el aprendizaje y manejo técnico de plataformas como Canva/Genially (diseño visual) y Vocaroo/Audacity/Flipgrid (edición de audio y vídeo).<br />Bloque B. Plurilingüismo:</p>
+<p>Estrategias y herramientas de autoevaluación y coevaluación: Se ponen en práctica al finalizar la Situación de Aprendizaje, momento en el que el alumnado utilizará la Diana de Evaluación para reflexionar sobre su trabajo en equipo y su propio progreso lingüístico.<br />Bloque C. Interculturalidad:</p>
+<p>La lengua extranjera como fuente de información y enriquecimiento: Se evidencia al utilizar el inglés como herramienta real y funcional para acceder a webs, enciclopedias y vídeos sobre historia universal y descubrimientos.<br />Aspectos socioculturales básicos (valores y cultura): Se abordan al estudiar las biografías, entendiendo el contexto histórico de las expediciones y fomentando valores de igualdad al visibilizar los logros de mujeres exploradoras y científicas.</p>
+<p><strong>2.4 Criterios de evaluación relacionados con las competencias específicas</strong></p>
+<p>A continuación, se detallan los criterios de evaluación curriculares vinculados a las competencias específicas movilizadas, junto con la justificación de su aplicación en las tareas propuestas:</p>
+<ul style="list-style-type: circle;">
+<li><strong>Competencia específica 1 (Comprensión):</strong></li>
+<li>Criterio 1.1: Interpretar y analizar el sentido global y localizar, de forma guiada, la información específica y explícita de textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos...</li>
+<li>Aplicación en la SdA: Se evalúa cuando el alumnado lee y comprende textos biográficos (en páginas web o artículos breves) para extraer los hitos más relevantes de la vida del explorador o exploradora asignado.<br /></li>
+<li>Criterio 1.2: Seleccionar, organizar y aplicar de forma guiada, los conocimientos más adecuados y las estrategias básicas en situaciones comunicativas cotidianas para comprender el sentido general... y buscar y seleccionar información.</li>
+<li>Aplicación en la SdA: Se evalúa durante la fase de investigación, al utilizar estrategias de lectura digital para filtrar datos, descartar información irrelevante y seleccionar fuentes fiables para documentar la infografía.<br /><strong></strong></li>
+</ul>
+<p><strong>Competencia específica 2 (Producción):</strong></p>
+<ul style="list-style-type: circle;">
+<li>Criterio 2.1: Expresar oralmente textos breves, sencillos, estructurados, comprensibles, previamente preparados y adecuados a la situación comunicativa... con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes...</li>
+<li>Aplicación en la SdA: Constituye el criterio central para evaluar la grabación del Podcast o Vídeo (entrevista), valorando la pronunciación, la entonación y el uso correcto del pasado simple (to be).<br /></li>
+<li>Criterio 2.2: Redactar textos breves y comprensibles, siguiendo pautas establecidas... con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta mediante el uso de herramientas analógicas y digitales.</li>
+<li>Aplicación en la SdA: Se evalúa mediante la redacción de los textos y etiquetas interactivas de la infografía (creada en Canva o Genially), verificando el uso correcto de adjetivos (-ed/-ing) y conectores (linking words).<br /></li>
+<li>Criterio 2.3: Seleccionar, organizar y aplicar de forma guiada conocimientos y estrategias básicas para planificar, producir y revisar textos... usando con ayuda los recursos físicos o digitales más adecuados...</li>
+<li>Aplicación en la SdA: Se evidencia en el trabajo de aula al redactar los guiones previos para la entrevista y los borradores de la infografía, utilizando diccionarios bilingües y correctores.<br /><strong></strong></li>
+</ul>
+<p><strong>Competencia específica 3 (Interacción):</strong></p>
+<ul style="list-style-type: circle;">
+<li>Criterio 3.1: Participar con progresiva autonomía en situaciones interactivas breves y sencillas... apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por las normas básicas de cortesía lingüística...</li>
+<li>Aplicación en la SdA: Se evalúa directamente a través del "Roleplay" (juego de roles) durante la grabación de la entrevista, observando la fluidez de la interacción entre quien asume el rol de periodista y quien hace de personaje histórico.<br /></li>
+</ul>
+<p><strong>Competencia específica 6 (Interculturalidad):</strong></p>
+<ul style="list-style-type: circle;">
+<li>Criterio 6.1: Actuar de forma empática y respetuosa en situaciones interculturales valorando la realidad plurilingüe y rechazando cualquier tipo de discriminación, prejuicio y estereotipo...</li>
+<li>Aplicación en la SdA: Se evalúa de forma transversal al investigar biografías, prestando especial atención a visibilizar y poner en valor los logros y expediciones llevadas a cabo por mujeres, rompiendo estereotipos de género.<strong></strong></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776110126436-fjy18fr82","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Elementos curriculares</strong></p>\n<p><strong>Competencias Clave (Descriptores del Perfil de Salida)</strong></p>\n<p>Para esta SdA, se movilizan los siguientes descriptores operativos del perfil de salida:</p>\n<ul>\n<li>\n<p>Justificación de los Descriptores Operativos del Perfil de Salida:</p>\n<p><strong>CCL1 </strong>(Comunicación Lingüística): Al expresar hechos, ideas y emociones de forma oral durante la grabación del podcast/vídeo, asumiendo el rol del personaje histórico y relatando sus vivencias en pasado.<br /><strong>CCL2 </strong>(Comunicación Lingüística): Al comprender e interpretar textos escritos y multimodales en inglés durante la búsqueda de información biográfica sobre los exploradores y exploradoras.<br /><strong>CCL3 </strong>(Comunicación Lingüística): Al localizar, seleccionar y contrastar información de fuentes fiables en internet para extraer los datos más relevantes que compondrán la infografía.<br /><strong>CCL5 </strong>(Comunicación Lingüística): Al interactuar de forma oral, cooperativa y respetuosa con su pareja para planificar el guion de la entrevista y llevar a cabo el juego de roles (periodista-explorador).<br /><strong>CP1 </strong>(Competencia Plurilingüe): Al utilizar la lengua inglesa de forma eficaz como vehículo para acceder a información internacional sobre descubrimientos e hitos históricos mundiales.<br /><strong>CP2 </strong>(Competencia Plurilingüe): Al apoyarse en herramientas digitales (como diccionarios online) y transferir estrategias de comprensión de su lengua materna al inglés para resolver dudas de vocabulario durante la investigación.<br /><strong>CD1 </strong>(Competencia Digital): Al realizar búsquedas críticas y seguras de información en entornos digitales, reconociendo la autoría y seleccionando imágenes libres de derechos (Licencias CC) para sus trabajos.<br /><strong>CD2 </strong>(Competencia Digital): Al crear, editar y compartir contenidos digitales originales e interactivos utilizando herramientas como Canva, Genially, Vocaroo o editores de vídeo.<br /><strong>CPSAA3 </strong>(Comp. Personal, Social y de Aprender a Aprender): Al planificar el trabajo, repartir roles y colaborar de forma eficaz y empática en parejas y pequeños grupos para lograr los productos finales.<br /><strong>CPSAA5 </strong>(Comp. Personal, Social y de Aprender a Aprender): Al participar activamente en su propio proceso de aprendizaje, utilizando herramientas como la diana de autoevaluación para reflexionar sobre sus progresos y áreas de mejora.<br /><strong>CC3 </strong>(Competencia Ciudadana): Al investigar y visibilizar intencionadamente la labor de mujeres exploradoras y científicas, promoviendo la igualdad de género y los valores democráticos (alineado con el ODS 5).<br /><strong>CE1 </strong>(Competencia Emprendedora): Al mostrar iniciativa y transformar las ideas y la información biográfica recopilada en productos creativos, estructurados e innovadores (la infografía interactiva y la entrevista).<br /><strong>CCEC1 </strong>(Conciencia y Expresión Culturales): Al descubrir y valorar críticamente la aportación al patrimonio de la humanidad que supusieron las expediciones de los personajes estudiados.<br /><strong>CCEC3 </strong>(Conciencia y Expresión Culturales): Al integrar elementos estéticos, visuales y de diseño propio en la creación de la infografía interactiva y al dramatizar la entrevista con creatividad.</p>\n</li>\n</ul>\n<p><strong>Justificación de las Competencias Específicas y Criterios de Evaluación en las tareas:</strong></p>\n<p><strong>Competencia Específica 1 </strong>(Comprensión): Comprender e interpretar el sentido general y los detalles más relevantes de textos expresados de forma clara y en la lengua estándar...</p>\n<p>Criterio 1.1: Al interpretar y analizar el sentido global de textos biográficos escritos y multimodales (páginas web, vídeos cortos en inglés) sobre los exploradores y exploradoras elegidos para extraer los hitos más importantes de sus vidas.<br />Criterio 1.2: Al aplicar estrategias de búsqueda de forma guiada para seleccionar la información más fiable y pertinente en internet, descartando los datos irrelevantes antes de confeccionar la infografía.<br />Competencia Específica 2 (Producción): Producir textos originales, de extensión media, sencillos y con una organización clara... para expresar de forma creativa, adecuada y coherente mensajes relevantes...</p>\n<p>Criterio 2.1: Al expresar oralmente, de forma previamente planificada y estructurada, las preguntas y respuestas durante la grabación del Podcast o Vídeo, utilizando el pasado del verbo to be y la pronunciación adecuada.<br />Criterio 2.2: Al redactar de forma escrita los textos breves y las etiquetas que se incluirán en la infografía interactiva, asegurando la coherencia, la cohesión (uso de linking words) y el uso correcto de los adjetivos en -ed e -ing.<br />Criterio 2.3: Al planificar, redactar borradores y revisar los textos de la infografía y del guion de la entrevista antes de su grabación/publicación, utilizando diccionarios online y correctores como apoyo.<br />Competencia Específica 3 (Interacción): Interactuar con otras personas con creciente autonomía, usando estrategias de cooperación y empleando recursos analógicos y digitales...</p>\n<p>Criterio 3.1: Al participar cooperativamente en el juego de roles de la entrevista simulada, respetando los turnos de palabra, apoyándose en la repetición o el lenguaje no verbal (si graban vídeo) y mostrando empatía hacia la pareja de trabajo.<br />Competencia Específica 6 (Interculturalidad): Valorar críticamente y adecuarse a la diversidad lingüística, cultural y artística a partir de la lengua extranjera...</p>\n<p>Criterio 6.1: Al actuar de forma empática y respetuosa durante la investigación, valorando la aportación histórica de figuras femeninas y masculinas en el ámbito de la exploración, rechazando los estereotipos de género.<br />Criterio 6.2: Al apreciar los descubrimientos, viajes y expediciones mundiales reconociendo la lengua inglesa como fuente de información y enriquecimiento personal para acceder a la historia global.</p>\n<p><strong>2.3 Saberes Básicos integrados en la Situación de Aprendizaje</strong></p>\n<p>Para llevar a cabo las tareas y productos finales (la Infografía interactiva y el Podcast/Vídeo), el alumnado movilizará los siguientes saberes básicos extraídos del currículo oficial:</p>\n<p>Bloque A. Comunicación:</p>\n<p>Autoconfianza y el error como instrumento de mejora: Se trabaja de forma activa durante la grabación del podcast/vídeo, fomentando un entorno seguro donde el alumnado pierda el miedo a expresarse oralmente en inglés.<br />Estrategias básicas para la planificación y producción de textos: Se aplican al realizar los borradores previos, esquemas y guiones (tanto para estructurar la infografía como para preparar las preguntas de la entrevista).<br />Funciones comunicativas básicas (describir, narrar en pasado): Constituyen el eje gramatical del proyecto. El alumnado aprenderá y utilizará el pasado simple del verbo to be (was/were) y los adjetivos en -ed/-ing para narrar la vida y hazañas de los exploradores.<br />Identificación de la autoría de las fuentes: Se integra transversalmente durante la fase de investigación, enseñando al alumnado a buscar y referenciar imágenes con licencias Creative Commons para ilustrar su infografía.<br />Herramientas digitales para la producción y coproducción: Se materializa en el aprendizaje y manejo técnico de plataformas como Canva/Genially (diseño visual) y Vocaroo/Audacity/Flipgrid (edición de audio y vídeo).<br />Bloque B. Plurilingüismo:</p>\n<p>Estrategias y herramientas de autoevaluación y coevaluación: Se ponen en práctica al finalizar la Situación de Aprendizaje, momento en el que el alumnado utilizará la Diana de Evaluación para reflexionar sobre su trabajo en equipo y su propio progreso lingüístico.<br />Bloque C. Interculturalidad:</p>\n<p>La lengua extranjera como fuente de información y enriquecimiento: Se evidencia al utilizar el inglés como herramienta real y funcional para acceder a webs, enciclopedias y vídeos sobre historia universal y descubrimientos.<br />Aspectos socioculturales básicos (valores y cultura): Se abordan al estudiar las biografías, entendiendo el contexto histórico de las expediciones y fomentando valores de igualdad al visibilizar los logros de mujeres exploradoras y científicas.</p>\n<p><strong>2.4 Criterios de evaluación relacionados con las competencias específicas</strong></p>\n<p>A continuación, se detallan los criterios de evaluación curriculares vinculados a las competencias específicas movilizadas, junto con la justificación de su aplicación en las tareas propuestas:</p>\n<ul style=\"list-style-type: circle;\">\n<li><strong>Competencia específica 1 (Comprensión):</strong></li>\n<li>Criterio 1.1: Interpretar y analizar el sentido global y localizar, de forma guiada, la información específica y explícita de textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos...</li>\n<li>Aplicación en la SdA: Se evalúa cuando el alumnado lee y comprende textos biográficos (en páginas web o artículos breves) para extraer los hitos más relevantes de la vida del explorador o exploradora asignado.<br /></li>\n<li>Criterio 1.2: Seleccionar, organizar y aplicar de forma guiada, los conocimientos más adecuados y las estrategias básicas en situaciones comunicativas cotidianas para comprender el sentido general... y buscar y seleccionar información.</li>\n<li>Aplicación en la SdA: Se evalúa durante la fase de investigación, al utilizar estrategias de lectura digital para filtrar datos, descartar información irrelevante y seleccionar fuentes fiables para documentar la infografía.<br /><strong></strong></li>\n</ul>\n<p><strong>Competencia específica 2 (Producción):</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li>Criterio 2.1: Expresar oralmente textos breves, sencillos, estructurados, comprensibles, previamente preparados y adecuados a la situación comunicativa... con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes...</li>\n<li>Aplicación en la SdA: Constituye el criterio central para evaluar la grabación del Podcast o Vídeo (entrevista), valorando la pronunciación, la entonación y el uso correcto del pasado simple (to be).<br /></li>\n<li>Criterio 2.2: Redactar textos breves y comprensibles, siguiendo pautas establecidas... con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta mediante el uso de herramientas analógicas y digitales.</li>\n<li>Aplicación en la SdA: Se evalúa mediante la redacción de los textos y etiquetas interactivas de la infografía (creada en Canva o Genially), verificando el uso correcto de adjetivos (-ed/-ing) y conectores (linking words).<br /></li>\n<li>Criterio 2.3: Seleccionar, organizar y aplicar de forma guiada conocimientos y estrategias básicas para planificar, producir y revisar textos... usando con ayuda los recursos físicos o digitales más adecuados...</li>\n<li>Aplicación en la SdA: Se evidencia en el trabajo de aula al redactar los guiones previos para la entrevista y los borradores de la infografía, utilizando diccionarios bilingües y correctores.<br /><strong></strong></li>\n</ul>\n<p><strong>Competencia específica 3 (Interacción):</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li>Criterio 3.1: Participar con progresiva autonomía en situaciones interactivas breves y sencillas... apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por las normas básicas de cortesía lingüística...</li>\n<li>Aplicación en la SdA: Se evalúa directamente a través del \"Roleplay\" (juego de roles) durante la grabación de la entrevista, observando la fluidez de la interacción entre quien asume el rol de periodista y quien hace de personaje histórico.<br /></li>\n</ul>\n<p><strong>Competencia específica 6 (Interculturalidad):</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li>Criterio 6.1: Actuar de forma empática y respetuosa en situaciones interculturales valorando la realidad plurilingüe y rechazando cualquier tipo de discriminación, prejuicio y estereotipo...</li>\n<li>Aplicación en la SdA: Se evalúa de forma transversal al investigar biografías, prestando especial atención a visibilizar y poner en valor los logros y expediciones llevadas a cabo por mujeres, rompiendo estereotipos de género.<strong></strong></li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morimxfj-3n1y51ikq</odePageId>
+  <odeParentPageId>page-morimxff-w0xgjx7ip</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxfj-3n1y51ikq</odePageId>
+      <odeBlockId>block-1776116841072-spakfx22b</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfj-3n1y51ikq</odePageId>
+          <odeBlockId>block-1776116841072-spakfx22b</odeBlockId>
+          <odeIdeviceId>idevice-1776116841037-pdhtxsmkm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Metodologías activas</strong><br />Para el desarrollo de esta Situación de Aprendizaje, se implementará un enfoque <strong>metodológico activo, competencial y centrado en el alumnado</strong>, tomando como estrategia principal el <strong>Aprendizaje Cooperativo</strong> [según el apartado 2.1.1.3 del módulo], adaptado específicamente al trabajo en parejas para maximizar el tiempo de habla y la participación individual.</p>
+<p><strong>Estrategia Central: Aprendizaje Cooperativo en Parejas</strong><br />Considerando un grupo de 16 estudiantes, se organizará el aula en parejas de aprendizaje estables para los dos productos finales. Para garantizar la interdependencia positiva y la responsabilidad individual, se asignarán roles complementarios y rotativos:</p>
+<p><strong>Para la Infografía Interactiva:</strong></p>
+<ul>
+<li>Rol A: Documentalista y Responsable Lingüístico. Su función es liderar la búsqueda de información biográfica fiable y asegurar el uso correcto de las estructuras de pasado (Past Simple "be") y adjetivos en los textos.</li>
+<li>Rol B: Diseñador/a Digital y Responsable de Accesibilidad. Su función es liderar el uso de la herramienta técnica (Canva/Genially), organizar visualmente la información y asegurar que el producto sea interactivo y cumpla con las pautas DUA (legibilidad y contraste).</li>
+</ul>
+<p><strong>Para el Podcast / Vídeo (Roleplay):</strong></p>
+<ul>
+<li>Rol A: Entrevistador/a (Periodista). Responsable de la creación de las estructuras interrogativas y de marcar el ritmo de la interacción oral.</li>
+<li>Rol B: Entrevistado/a (Personaje Histórico). Responsable de la elaboración de las respuestas y de la caracterización/expresividad necesaria para el papel.</li>
+</ul>
+<p><strong>Estrategias Complementarias</strong></p>
+<ul>
+<li><strong>Aprendizaje Basado en Proyectos</strong> (ABP): La adquisición de saberes básicos (gramática y vocabulario de la unidad) se realiza de forma funcional, ya que son las herramientas necesarias para resolver el reto de crear productos multimodales reales.</li>
+<li><strong>Instrucción Multinivel (DUA):</strong> Se ofrecen múltiples formas de acción y expresión. El alumnado puede elegir entre formato audio (podcast) o audiovisual (vídeo), permitiendo que cada pareja se exprese según sus fortalezas y nivel de seguridad con el idioma.</li>
+<li><strong>Fomento de la Autonomía: </strong>El profesorado actúa como facilitador y guía, proporcionando andamiaje lingüístico (scaffolding) a través de plantillas de guiones y listas de control que las parejas deben gestionar de forma autónoma durante las sesiones.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776116841037-pdhtxsmkm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Metodologías activas</strong><br />Para el desarrollo de esta Situación de Aprendizaje, se implementará un enfoque <strong>metodológico activo, competencial y centrado en el alumnado</strong>, tomando como estrategia principal el <strong>Aprendizaje Cooperativo</strong> [según el apartado 2.1.1.3 del módulo], adaptado específicamente al trabajo en parejas para maximizar el tiempo de habla y la participación individual.</p>\n<p><strong>Estrategia Central: Aprendizaje Cooperativo en Parejas</strong><br />Considerando un grupo de 16 estudiantes, se organizará el aula en parejas de aprendizaje estables para los dos productos finales. Para garantizar la interdependencia positiva y la responsabilidad individual, se asignarán roles complementarios y rotativos:</p>\n<p><strong>Para la Infografía Interactiva:</strong></p>\n<ul>\n<li>Rol A: Documentalista y Responsable Lingüístico. Su función es liderar la búsqueda de información biográfica fiable y asegurar el uso correcto de las estructuras de pasado (Past Simple \"be\") y adjetivos en los textos.</li>\n<li>Rol B: Diseñador/a Digital y Responsable de Accesibilidad. Su función es liderar el uso de la herramienta técnica (Canva/Genially), organizar visualmente la información y asegurar que el producto sea interactivo y cumpla con las pautas DUA (legibilidad y contraste).</li>\n</ul>\n<p><strong>Para el Podcast / Vídeo (Roleplay):</strong></p>\n<ul>\n<li>Rol A: Entrevistador/a (Periodista). Responsable de la creación de las estructuras interrogativas y de marcar el ritmo de la interacción oral.</li>\n<li>Rol B: Entrevistado/a (Personaje Histórico). Responsable de la elaboración de las respuestas y de la caracterización/expresividad necesaria para el papel.</li>\n</ul>\n<p><strong>Estrategias Complementarias</strong></p>\n<ul>\n<li><strong>Aprendizaje Basado en Proyectos</strong> (ABP): La adquisición de saberes básicos (gramática y vocabulario de la unidad) se realiza de forma funcional, ya que son las herramientas necesarias para resolver el reto de crear productos multimodales reales.</li>\n<li><strong>Instrucción Multinivel (DUA):</strong> Se ofrecen múltiples formas de acción y expresión. El alumnado puede elegir entre formato audio (podcast) o audiovisual (vídeo), permitiendo que cada pareja se exprese según sus fortalezas y nivel de seguridad con el idioma.</li>\n<li><strong>Fomento de la Autonomía: </strong>El profesorado actúa como facilitador y guía, proporcionando andamiaje lingüístico (scaffolding) a través de plantillas de guiones y listas de control que las parejas deben gestionar de forma autónoma durante las sesiones.</li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morimxfk-lki0hkt1p</odePageId>
+  <odeParentPageId>page-morimxff-w0xgjx7ip</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxfk-lki0hkt1p</odePageId>
+      <odeBlockId>block-1776117065053-zjq7iq87c</odeBlockId>
+      <blockName>Vinculación con los proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfk-lki0hkt1p</odePageId>
+          <odeBlockId>block-1776117065053-zjq7iq87c</odeBlockId>
+          <odeIdeviceId>idevice-1776117065049-i0q9zrzqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Vinculación con los proyectos y programas del centro</strong><br /></p>
+<p>Esta Situación de Aprendizaje se integra de manera coherente con las líneas estratégicas de actuación docente recogidas en los documentos institucionales del centro:</p>
+<ul>
+<li><strong>Proyecto Digital de Centro </strong>(PDC): La SdA contribuye directamente a este plan mediante el desarrollo de la competencia digital tanto del alumnado como del docente. Se hace un uso intensivo de herramientas de creación de contenidos (Canva, Genially, Vocaroo) y de entornos virtuales de aprendizaje, fomentando un uso seguro, crítico y responsable de la tecnología.</li>
+<li><strong>Plan de Lectura, Escritura e Investigación </strong>(PLEI): Se vincula a través de la fase de investigación biográfica. El alumnado debe poner en práctica estrategias de búsqueda, selección y tratamiento de la información en lengua extranjera (alfabetización informacional), así como la lectura comprensiva de textos multimodales y la expresión escrita para la elaboración de los productos finales.</li>
+<li><strong>Plan de Atención a la Diversidad</strong> (PAD): Siguiendo las directrices del PAD y el marco del Diseño Universal para el Aprendizaje (DUA), esta SdA propone una programación flexible. El uso de agrupamientos cooperativos en parejas y la posibilidad de elegir entre distintos formatos de expresión (audio o vídeo) garantizan la inclusión y la respuesta a los diferentes ritmos y estilos de aprendizaje del aula.</li>
+<li><strong>Plan de Coeducación e Igualdad</strong>: En consonancia con este plan, la SdA integra la <strong>perspectiva de género</strong> de forma transversal al visibilizar intencionadamente los logros de mujeres exploradoras y pioneras. De este modo, se contribuye a eliminar estereotipos y a proporcionar referentes femeninos en ámbitos de aventura y descubrimiento.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776117065049-i0q9zrzqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Vinculación con los proyectos y programas del centro</strong><br /></p>\n<p>Esta Situación de Aprendizaje se integra de manera coherente con las líneas estratégicas de actuación docente recogidas en los documentos institucionales del centro:</p>\n<ul>\n<li><strong>Proyecto Digital de Centro </strong>(PDC): La SdA contribuye directamente a este plan mediante el desarrollo de la competencia digital tanto del alumnado como del docente. Se hace un uso intensivo de herramientas de creación de contenidos (Canva, Genially, Vocaroo) y de entornos virtuales de aprendizaje, fomentando un uso seguro, crítico y responsable de la tecnología.</li>\n<li><strong>Plan de Lectura, Escritura e Investigación </strong>(PLEI): Se vincula a través de la fase de investigación biográfica. El alumnado debe poner en práctica estrategias de búsqueda, selección y tratamiento de la información en lengua extranjera (alfabetización informacional), así como la lectura comprensiva de textos multimodales y la expresión escrita para la elaboración de los productos finales.</li>\n<li><strong>Plan de Atención a la Diversidad</strong> (PAD): Siguiendo las directrices del PAD y el marco del Diseño Universal para el Aprendizaje (DUA), esta SdA propone una programación flexible. El uso de agrupamientos cooperativos en parejas y la posibilidad de elegir entre distintos formatos de expresión (audio o vídeo) garantizan la inclusión y la respuesta a los diferentes ritmos y estilos de aprendizaje del aula.</li>\n<li><strong>Plan de Coeducación e Igualdad</strong>: En consonancia con este plan, la SdA integra la <strong>perspectiva de género</strong> de forma transversal al visibilizar intencionadamente los logros de mujeres exploradoras y pioneras. De este modo, se contribuye a eliminar estereotipos y a proporcionar referentes femeninos en ámbitos de aventura y descubrimiento.</li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morimxfk-sudx2t2pr</odePageId>
+  <odeParentPageId>page-morimxff-w0xgjx7ip</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxfk-sudx2t2pr</odePageId>
+      <odeBlockId>block-1776117193337-4y7ut7t1g</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfk-sudx2t2pr</odePageId>
+          <odeBlockId>block-1776117193337-4y7ut7t1g</odeBlockId>
+          <odeIdeviceId>idevice-1776117193335-9yl0lq77r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividades complementarias y extraescolares</strong><br /></p>
+<p>Para conectar el trabajo del aula con el mundo real y fomentar el uso funcional de la lengua inglesa en contextos auténticos, se proponen las siguientes opciones:</p>
+<p><strong>Actividad Complementaria (en el centro):</strong> "Encuentro con un espíritu aventurero". Se plantearía una conexión por videollamada (a través de plataformas como Skype in the Classroom, la red europea eTwinning o contactos de la propia comunidad educativa) con una persona con perfil viajero, cooperante, deportista o científica/o que utilice el inglés como lengua vehicular en su día a día. El alumnado aprovecharía el trabajo previo de la Situación de Aprendizaje para realizarle una breve entrevista real en directo, poniendo en práctica de manera funcional las estructuras interrogativas en pasado, la interacción oral y las normas de cortesía trabajadas en su Roleplay.<br />Actividad Extraescolar (fuera del centro): <em>Scavenger Hunt</em> de exploración local. Se propone una visita a un entorno museístico de Asturias fuertemente relacionado con la exploración, la navegación o el descubrimiento científico (como, por ejemplo, el Museo Marítimo de Asturias en Luanco o el Jardín Botánico Atlántico en Gijón, focalizado en expediciones históricas). Durante la salida, el alumnado trabajaría con sus parejas de aprendizaje habituales para completar una <em>Scavenger Hunt</em> (búsqueda del tesoro) con pistas en inglés diseñadas por el docente en este caso. Tendrían que localizar herramientas de navegación o hitos de viajeros, conectando la experiencia inmersiva fuera del aula con el trabajo de investigación y deducción realizado durante las sesiones de clase.</p>
+<p><br /></p>
+<p><em>Nota aclaratoria: Las actividades que se detallan a continuación se plantean como supuestos o propuestas de diseño ideales para enriquecer esta Situación de Aprendizaje. Su viabilidad y realización efectiva quedarían siempre pendientes y supeditadas a la disponibilidad organizativa del centro, los recursos económicos y tecnológicos, y la correspondiente aprobación en la Programación General Anual (PGA).</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776117193335-9yl0lq77r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividades complementarias y extraescolares</strong><br /></p>\n<p>Para conectar el trabajo del aula con el mundo real y fomentar el uso funcional de la lengua inglesa en contextos auténticos, se proponen las siguientes opciones:</p>\n<p><strong>Actividad Complementaria (en el centro):</strong> \"Encuentro con un espíritu aventurero\". Se plantearía una conexión por videollamada (a través de plataformas como Skype in the Classroom, la red europea eTwinning o contactos de la propia comunidad educativa) con una persona con perfil viajero, cooperante, deportista o científica/o que utilice el inglés como lengua vehicular en su día a día. El alumnado aprovecharía el trabajo previo de la Situación de Aprendizaje para realizarle una breve entrevista real en directo, poniendo en práctica de manera funcional las estructuras interrogativas en pasado, la interacción oral y las normas de cortesía trabajadas en su Roleplay.<br />Actividad Extraescolar (fuera del centro): <em>Scavenger Hunt</em> de exploración local. Se propone una visita a un entorno museístico de Asturias fuertemente relacionado con la exploración, la navegación o el descubrimiento científico (como, por ejemplo, el Museo Marítimo de Asturias en Luanco o el Jardín Botánico Atlántico en Gijón, focalizado en expediciones históricas). Durante la salida, el alumnado trabajaría con sus parejas de aprendizaje habituales para completar una <em>Scavenger Hunt</em> (búsqueda del tesoro) con pistas en inglés diseñadas por el docente en este caso. Tendrían que localizar herramientas de navegación o hitos de viajeros, conectando la experiencia inmersiva fuera del aula con el trabajo de investigación y deducción realizado durante las sesiones de clase.</p>\n<p><br /></p>\n<p><em>Nota aclaratoria: Las actividades que se detallan a continuación se plantean como supuestos o propuestas de diseño ideales para enriquecer esta Situación de Aprendizaje. Su viabilidad y realización efectiva quedarían siempre pendientes y supeditadas a la disponibilidad organizativa del centro, los recursos económicos y tecnológicos, y la correspondiente aprobación en la Programación General Anual (PGA).</em></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morimxfl-4di8f1wiq</odePageId>
+  <odeParentPageId>page-morimxff-w0xgjx7ip</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morimxfl-4di8f1wiq</odePageId>
+      <odeBlockId>block-1777910457570-fqg7i6639</odeBlockId>
+      <blockName>Atribución y Licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfl-4di8f1wiq</odePageId>
+          <odeBlockId>block-1777910457570-fqg7i6639</odeBlockId>
+          <odeIdeviceId>idevice-1777910457527-ybnwczfi6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Atribución y Licencia</strong></p>
+<p>Este documento y los materiales que lo componen se publican bajo una licencia <strong>Creative Commons: Reconocimiento - Compartir Igual 4.0 (CC BY-SA 4.0)</strong>. Se permite la copia, distribución y modificación de este recurso, siempre y cuando se reconozca la autoría original y se comparta la obra derivada bajo la misma licencia.  <img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910457527-ybnwczfi6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Atribución y Licencia</strong></p>\n<p>Este documento y los materiales que lo componen se publican bajo una licencia <strong>Creative Commons: Reconocimiento - Compartir Igual 4.0 (CC BY-SA 4.0)</strong>. Se permite la copia, distribución y modificación de este recurso, siempre y cuando se reconozca la autoría original y se comparta la obra derivada bajo la misma licencia.  <img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morimxfl-4di8f1wiq</odePageId>
+      <odeBlockId>block-1777918419212-7n0oxziit</odeBlockId>
+      <blockName>Descarga</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morimxfl-4di8f1wiq</odePageId>
+          <odeBlockId>block-1777918419212-7n0oxziit</odeBlockId>
+          <odeIdeviceId>idevice-1777918419212-y8ijfju7k</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">A Spirit of Adventure</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Learning situation for CSE 1. It works on the contents of Unit 7. The unit combines grammar (past simple) with adventure-themed vocabulary, helping students talk about past experiences and important people, especially through biographical texts and communication activities.</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Olay Fernández Lombardía</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descarga el fichero .elp</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
